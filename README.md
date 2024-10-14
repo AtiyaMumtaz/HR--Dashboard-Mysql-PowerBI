@@ -1,5 +1,7 @@
 # HR-Dashboard-Mysql-PowerBI
-The dataset was cleaned and queried using MySQL inside Workbench and visualized using PowerBI
+
+![image1](https://raw.githubusercontent.com/AtiyaMumtaz/HR--Dashboard-Mysql-PowerBI/185d57400df6ea2147e620ec3e039160b70ea4e3/Screenshot%202024-10-13%20204401.png)
+![image2](https://raw.githubusercontent.com/AtiyaMumtaz/HR--Dashboard-Mysql-PowerBI/185d57400df6ea2147e620ec3e039160b70ea4e3/Screenshot%202024-10-13%20204420.png)
 ## Data Used
 
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
